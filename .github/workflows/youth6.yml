@@ -1,4 +1,4 @@
-name: 中青看点223
+name: 中青看点6
 
 on:
   workflow_dispatch:
@@ -22,7 +22,7 @@ jobs:
           npm install cron
           npm install request
           npm install md5-node
-      - name: '运行 【中青看点223】'
+      - name: '运行 【中青看点6】'
         run: |
           cd ~/js   
-          node Task/youth223.js
+          node Task/youth6.js
