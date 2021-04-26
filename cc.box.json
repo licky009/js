@@ -1,9 +1,9 @@
 {
-	"id": "cenbomintest.app.sub",
-	"name": "CenBomin.TestScript",
-	"author": "@cenbomin",
+	"id": "cc.app.sub",
+	"name": "cc.TestScript",
+	"author": "@cc",
 	"icon": "https://avatars0.githubusercontent.com/u/75375782?s=400&u=86eee41f7f138c5d0187aa10d2242bfc9799182e&v=4",
-	"repo": "https://github.com/CenBoMin/TEST",
+	"repo": "https://github.com/licky009/js/edit/master",
 	"apps": [{
 		"id": "helpbang",
 		"name": "互利帮",
